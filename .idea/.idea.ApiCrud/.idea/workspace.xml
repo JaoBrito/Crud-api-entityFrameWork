@@ -18,6 +18,9 @@
   <component name="DpaMonitoringSettings">
     <option name="firstShow" value="false" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2832e8c2b81f4641b3863f406ce3a519c90938/f4/5ad2f1fb/Type.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/92915fc433708d54b82f7e51aa6c115b21ca2f9695264db0585bf5cd6e9e1959/Results.cs" root0="FORCE_HIGHLIGHTING" />
@@ -26,6 +29,7 @@
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2uFZMyDWrOOmAEWds7Ca1pqJTRd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,6 +39,7 @@
     ".NET Launch Settings Profile.ApiCrud: IIS Express.executor": "Debug",
     ".NET Launch Settings Profile.ApiCrud: http.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -105,7 +110,7 @@
       <option name="presentableId" value="Default" />
       <updated>1741846240097</updated>
       <workItem from="1741846241106" duration="13913000" />
-      <workItem from="1741994829545" duration="3341000" />
+      <workItem from="1741994829545" duration="3764000" />
     </task>
     <servers />
   </component>
@@ -113,6 +118,17 @@
     <option name="version" value="3" />
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
