@@ -1,4 +1,4 @@
 ﻿**Projeto criado para prática de Crud .NET** 
 
-![img.png](img.png)
+<img src="/ApiCrud/img.png">
 
