@@ -5,6 +5,7 @@ obj/
 *.sqlite
 *.sqlite-shm
 *.sqlite-wal
+*.txt
 
 # Arquivos de usuário e configuração
 *.user
