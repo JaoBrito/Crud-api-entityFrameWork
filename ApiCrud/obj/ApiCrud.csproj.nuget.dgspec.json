@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\RiderProjects\\ApiCrud\\ApiCrud\\ApiCrud.csproj": {}
+    "D:\\Programação\\projects\\Crud-api-entityFrameWork\\ApiCrud\\ApiCrud.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\RiderProjects\\ApiCrud\\ApiCrud\\ApiCrud.csproj": {
+    "D:\\Programação\\projects\\Crud-api-entityFrameWork\\ApiCrud\\ApiCrud.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\RiderProjects\\ApiCrud\\ApiCrud\\ApiCrud.csproj",
+        "projectUniqueName": "D:\\Programação\\projects\\Crud-api-entityFrameWork\\ApiCrud\\ApiCrud.csproj",
         "projectName": "ApiCrud",
-        "projectPath": "C:\\Users\\User\\RiderProjects\\ApiCrud\\ApiCrud\\ApiCrud.csproj",
+        "projectPath": "D:\\Programação\\projects\\Crud-api-entityFrameWork\\ApiCrud\\ApiCrud.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\RiderProjects\\ApiCrud\\ApiCrud\\obj\\",
+        "outputPath": "D:\\Programação\\projects\\Crud-api-entityFrameWork\\ApiCrud\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

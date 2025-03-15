@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\RiderProjects\\ApiCrud\\ApiCrud\\",
+  "WorkspaceRootPath": "D:\\Programa\u00E7\u00E3o\\projects\\Crud-api-entityFrameWork\\ApiCrud\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BF6A7E71-22DB-2CE9-C045-4733A61B50D6}|ApiCrud.csproj|c:\\users\\user\\riderprojects\\apicrud\\apicrud\\estudantes\\estudantesrotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BF6A7E71-22DB-2CE9-C045-4733A61B50D6}|ApiCrud.csproj|d:\\programa\u00E7\u00E3o\\projects\\crud-api-entityframework\\apicrud\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF6A7E71-22DB-2CE9-C045-4733A61B50D6}|ApiCrud.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF6A7E71-22DB-2CE9-C045-4733A61B50D6}|ApiCrud.csproj|d:\\programa\u00E7\u00E3o\\projects\\crud-api-entityframework\\apicrud\\estudantes\\estudantesrotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF6A7E71-22DB-2CE9-C045-4733A61B50D6}|ApiCrud.csproj|solutionrelative:estudantes\\estudantesrotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -23,12 +27,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Programa\u00E7\u00E3o\\projects\\Crud-api-entityFrameWork\\ApiCrud\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Programa\u00E7\u00E3o\\projects\\Crud-api-entityFrameWork\\ApiCrud\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T03:49:16.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "EstudantesRotas.cs",
-              "DocumentMoniker": "C:\\Users\\User\\RiderProjects\\ApiCrud\\ApiCrud\\Estudantes\\EstudantesRotas.cs",
+              "DocumentMoniker": "D:\\Programa\u00E7\u00E3o\\projects\\Crud-api-entityFrameWork\\ApiCrud\\Estudantes\\EstudantesRotas.cs",
               "RelativeDocumentMoniker": "Estudantes\\EstudantesRotas.cs",
-              "ToolTip": "C:\\Users\\User\\RiderProjects\\ApiCrud\\ApiCrud\\Estudantes\\EstudantesRotas.cs",
+              "ToolTip": "D:\\Programa\u00E7\u00E3o\\projects\\Crud-api-entityFrameWork\\ApiCrud\\Estudantes\\EstudantesRotas.cs",
               "RelativeToolTip": "Estudantes\\EstudantesRotas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABQAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-14T23:09:08.367Z",
               "EditorCaption": ""
