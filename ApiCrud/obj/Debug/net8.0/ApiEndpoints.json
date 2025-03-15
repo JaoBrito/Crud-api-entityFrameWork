@@ -1,0 +1,42 @@
+[
+  {
+    "ContainingType": "ApiCrud.Estudantes.EstudantesRotas\u002B\u003C\u003Ec",
+    "Method": "\u003CaddRotasEstudantes\u003Eb__0_0",
+    "RelativePath": "estudantes/",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ApiCrud.Estudantes.AddEstudanteRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ApiCrud.Estudantes.EstudantesRotas\u002B\u003C\u003Ec",
+    "Method": "\u003CaddRotasEstudantes\u003Eb__0_1",
+    "RelativePath": "estudantes/",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[ApiCrud.Estudantes.Estudante, ApiCrud, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
